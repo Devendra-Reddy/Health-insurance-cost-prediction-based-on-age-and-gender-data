@@ -1,6 +1,3 @@
-Based on the provided link to your GitHub repository, I've tailored the `README.md` file to align with your project's specifics. Here's the updated content:
-
-```markdown
 # Health Insurance Cost Prediction
 
 ## Overview
